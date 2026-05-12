@@ -1,0 +1,13 @@
+{
+  "cameraIndex": 0,
+  "requestedCameraWidth": 1280,
+  "requestedCameraHeight": 720,
+  "expectedLongMm": 297.0,
+  "expectedShortMm": 210.0,
+  "toleranceMm": 0.5,
+  "undistortAlpha": 0.1,
+  "intrinsicCalibrationPath": "Calibration/camera_intrinsic.json",
+  "expectedHoleDiameterMm": 6.0,
+  "holePositionToleranceMm": 1.0,
+  "holeReferences": []
+}
