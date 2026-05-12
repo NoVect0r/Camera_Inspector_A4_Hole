@@ -1,0 +1,74 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Visual Studio user state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Test and coverage artifacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.generated.cs
+*.cache
+*.pdb
+*.dll
+*.exe
+*.deps.json
+*.runtimeconfig.json
+*.resources
+*.baml
+
+# Publish / deployment outputs
+publish/
+*.publishsettings
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.orig
+~$*
+*.dbmdl
+*.jfm
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Keep project source, views, and configuration tracked:
+# *.cs, *.xaml, *.csproj, *.sln, *.slnx, and committed *.json files are not ignored.
